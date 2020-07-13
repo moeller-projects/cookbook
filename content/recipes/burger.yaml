@@ -1,0 +1,29 @@
+title: Burger
+date: 2015-05-01T22:12:03.284Z
+category: Hauptgericht
+description: Zutaten & Zubereitung der Roten Linsen Bolognese
+image: burger.jpg
+basics:
+    duration: 35 min
+    servings: 2
+nutritiveValue:
+    kcal: 420
+    fat: 3
+    carbs: 18
+    protein: 67
+ingredients:
+    - 1 Karotte
+    - 1 Zwiebel
+    - 1 Knoblauchzehe
+    - 2 EL Tomatenmark
+    - 100 g rote Linsen
+    - 200 g Tomaten, gestückelt
+    - 200 g Nudeln
+cooking:
+    - Karotte schälen und grob raspeln. Zwiebel schälen und fein würfeln. Ebenfalls Knoblauchzehe schälen und pressen.
+    - Alles in einem großen Topf in etwas Öl andünsten. Tomatenmark, Gewürze, Linsen und gestückelte Tomaten dazugeben und etwa 25 Minuten köcheln lassen.
+    - Währenddessen immer  wieder gut umrühren und ggf. etwas Wasser hinzufügen.
+    - Spirelli in ausreichend Salzwasser 5 Minuten kochen.
+    
+tips:
+    - Warm genießen ;)
